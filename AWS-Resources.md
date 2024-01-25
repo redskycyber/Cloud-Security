@@ -25,10 +25,22 @@ https://cloud.hacktricks.xyz/pentesting-cloud/aws-security
 An encyclopedia of attacks/tactics/techniques for cloud and AWS \
 https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/ 
 
+[Resource] [FREE] OffensiveCloud Github Repo \
+Offensive security tips and penetration testing TTP for Cloud based environments by lutzenfried \
+https://github.com/lutzenfried/OffensiveCloud/tree/main/AWS
+
 # Labs
 [Lab] [FREE] Cloud Goat \
 Vulnerable by design AWS Lab \
 https://github.com/RhinoSecurityLabs/cloudgoat 
+
+[Lab] [FREE] IAM Vulnerable \
+Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground \
+https://github.com/BishopFox/iam-vulnerable
+
+[Lab] [FREE] Cloudfoxable labs \
+An intentionally vulnerable AWS environment. Pairs well with learning Cloudfox Exploit Framework \
+https://github.com/BishopFox/cloudfoxable
 
 [Labs] [Paid] TryHackMe - Attacking and Defending AWS \
 Practical, hands-on experience with Amazon Web Services \
@@ -39,9 +51,13 @@ https://tryhackme.com/path/outline/attackinganddefendingaws
 Enterprise only cloud penetration testing labs \
 https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky 
 
-[Lab] [Free tier] + [Paid] Pwnedlabs
+[Lab] [Free tier] + [Paid] Pwnedlabs \
 Real-world, byte sized cloud security labs for training
 https://pwnedlabs.io/
+
+[Lab] [Paid] HackTheBox - AWS Fortress \
+Cloud hacking from Hack The Box and Amazon Web Services \
+https://www.hackthebox.com/blog/amazon-web-services-fortress
 
 # Research & Reading 
 [Research + Reading] [FREE] AWS Customer Security Incidents Github Repo \
@@ -57,9 +73,17 @@ https://aws.amazon.com/certification/certified-cloud-practitioner/
 Validates your expertise in creating and implementing security solutions in the AWS Cloud \
 https://aws.amazon.com/certification/certified-security-specialty/ 
 
-[Certification] [Paid] HackTricks Training - AWS Red Team Expert \
+[Certification] [Paid] HackTricks Training - AWS Red Team Expert ARTE \
 Hands on training lab and certification for AWS Red teaming \
 https://training.hacktricks.xyz/courses/arte 
+
+[Certification] [Paid] Cyberwarefare AWS Cloud Red team Specialst CARTS \
+Labs, training, and certification \
+https://cyberwarfare.live/product/aws-cloud-red-team-specialist-carts/
+
+[Certification] [Paid] Cloudbreach - Offensive AWS Security Professional (OAWSP) \
+Acquire knowledge about utilizing AWS-specific attack methods in hands-on labs \
+https://cloudbreach.io/breachingaws/
 
 # Videos
 [Video Playlist] [FREE] AWS Cloud 101 - Tyler Rambsey \
@@ -87,10 +111,21 @@ https://github.com/BishopFox/cloudfox
 Open-source AWS exploitation framework \
 https://github.com/RhinoSecurityLabs/pacu 
 
-[Tool] [FREE] S3Scanner
+[Tool] [FREE] S3Scanner \
 For discovering 'Leaky' Buckets \
 https://github.com/sa7mon/S3Scanner
 
-[Tool] [Free tier] + [Paid] grayhatwarfare Buckt Filter
+[Tool] [Free tier] + [Paid] grayhatwarfare Buckt Filter \
 Search Public Buckets
 https://buckets.grayhatwarfare.com/buckets?type=aws
+
+[Tool - Audit] [FREE] Steampie \
+Steampipe is an open-source zero-ETL engine to instantly query cloud APIs using SQL \
+https://github.com/turbot/steampipe
+https://hub.steampipe.io/mods
+
+# Operating System
+[OS] [FREE] Red Cloud OS \
+Debian based Cloud Adversary Simulation Operating System for Red Teams to assess the security of leading Cloud Service Providers \
+https://github.com/RedTeamOperations/RedCloud-OS
+
