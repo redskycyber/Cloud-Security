@@ -1,7 +1,7 @@
 For those of you interested in learning AWS Security and Penetration Testing, check out these resources:
 
 # Training 
-[Training] AWS Training site
+[Training] AWS Training site \
 Search for “Security”
 https://www.aws.training/
 
