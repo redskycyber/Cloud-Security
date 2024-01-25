@@ -5,15 +5,15 @@ For those of you interested in learning AWS Security and Penetration Testing, ch
 Training program built by AWS \
 https://www.aws.training/ 
 
-[Training] AWS Cloud Quest \
+[Training] [Free tier] + [Paid] AWS Cloud Quest \
 Immersive role-playing simulation that provides skill badges on completion \
 https://aws.amazon.com/training/digital/aws-cloud-quest/ 
 
-[Training] Antisyphon Training - Breaching the Cloud with Beau Bullock \
+[Training] [Paid] Antisyphon Training - Breaching the Cloud with Beau Bullock \
 Walks through a complete penetration testing methodology of cloud-based infrastructure on AWS, Azure, and GCP \
 https://www.antisyphontraining.com/on-demand-courses/breaching-the-cloud-w-beau-bullock/ 
 
-[Training + Lab] Pentester Academy - AWS Bootcamp and AWS Cloud Security Labs \
+[Training + Lab] [Paid] Pentester Academy - AWS Bootcamp and AWS Cloud Security Labs \
 https://attackdefense.pentesteracademy.com/listing?labtype=aws-cloud-security-bootcamp&subtype=aws-cloud-security-bootcamp-recordings 
 
 # Resources
@@ -35,7 +35,7 @@ Practical, hands-on experience with Amazon Web Services \
 https://resources.tryhackme.com/attacking-and-defending-aws 
 https://tryhackme.com/path/outline/attackinganddefendingaws 
 
-[Lab][Paid] Hack the Box - Black Sky - Hailstorm \
+[Lab] [Paid] Hack the Box - Black Sky - Hailstorm \
 Enterprise only cloud penetration testing labs \
 https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky 
 
@@ -87,6 +87,6 @@ https://github.com/BishopFox/cloudfox
 Open-source AWS exploitation framework \
 https://github.com/RhinoSecurityLabs/pacu 
 
-[Tool] [Free] S3Scanner
+[Tool] [FREE] S3Scanner
 For discovering 'Leaky' Buckets \
 https://github.com/sa7mon/S3Scanner
