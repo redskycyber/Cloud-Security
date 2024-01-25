@@ -1,5 +1,7 @@
 # Cloud Resources
 
+![redskycyberlogo](https://github.com/redskycyber/CloudResources/assets/157662722/597cc29d-f0d6-434d-9b6d-f8263158d209)
+
 "Red sky in morning, sailor’s warning. Red sky at night, sailor’s delight."
 
 A red sky can serve as both a predictive warning and a symbol of secure passage. 
