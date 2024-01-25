@@ -11,7 +11,7 @@ Red Sky Cyber strives to do both:
 and
 2. Guiding you towards the answers through shared resources 
 
-In doing so, I aim help you achieve a more fulfilling and abundant cyber security career.
+In doing so, I aim to help you achieve a more fulfilling and abundant cyber security career.
 
 Hey! I'm Mike Dame, and I have 5+ years of experience in Offensive Security, working for Fortune 50 enterprises and more recently, consulting across multiple industries. I hold the OSCP, CRTO, PNPT, AWS Certified Cloud Practitioner, AWS Certified Security Specialty certifications to name a few.
 
