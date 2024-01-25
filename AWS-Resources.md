@@ -41,6 +41,7 @@ https://github.com/BishopFox/iam-vulnerable
 [Lab] [FREE] Cloudfoxable labs \
 An intentionally vulnerable AWS environment. Pairs well with learning Cloudfox Exploit Framework \
 https://github.com/BishopFox/cloudfoxable
+Video walkthrough: https://www.youtube.com/watch?v=Ljt_JUp5HbM
 
 [Labs] [Paid] TryHackMe - Attacking and Defending AWS \
 Practical, hands-on experience with Amazon Web Services \
