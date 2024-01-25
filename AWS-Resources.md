@@ -117,8 +117,12 @@ For discovering 'Leaky' Buckets \
 https://github.com/sa7mon/S3Scanner
 
 [Tool] [Free tier] + [Paid] grayhatwarfare Buckt Filter \
-Search Public Buckets
+Search Public Buckets \
 https://buckets.grayhatwarfare.com/buckets?type=aws
+
+[Tool - Repository] Toniblynx's Arsenal of AWS Security Tools \
+This list of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 
 [Tool - Audit] [FREE] Steampie \
 Steampipe is an open-source zero-ETL engine to instantly query cloud APIs using SQL \
