@@ -1,4 +1,4 @@
-# Cloud Resources
+# Cloud Resources for Offensive Security and Penetration Testing
 
 ![redskycyberlogo](https://github.com/redskycyber/CloudResources/assets/157662722/597cc29d-f0d6-434d-9b6d-f8263158d209)
 
