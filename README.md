@@ -5,7 +5,11 @@
 "Red sky in morning, sailor’s warning. Red sky at night, sailor’s delight."
 
 A red sky can serve as both a predictive warning and a symbol of secure passage. 
-Red Sky Cyber strives to do both: assisting you in identifying gaps in your cloud and cybersecurity knowledge and guiding you towards the answers through shared resources to help you achieve a more fulfilling and abundant career.
+
+Red Sky Cyber strives to do both:
+1. Assisting you in identifying gaps in your cloud and cybersecurity knowledge
+and
+2. Guiding you towards the answers through shared resources to help you achieve a more fulfilling and abundant career
 
 Hey! I'm Mike Dame, and I have 5+ years of experience in Offensive Security, working for Fortune 50 enterprises and more recently, consulting across multiple industries. I hold the OSCP, CRTO, PNPT, AWS Certified Cloud Practitioner, AWS Certified Security Specialty certifications to name a few.
 
