@@ -1,4 +1,4 @@
-For those of you interested in learning AWS Security and Penetration Testing, check out these resources:
+For those of you interested in learning AWS Security and Penetration Testing, here is my best list of shared and compiled resources:
 
 # Training 
 [Training] [FREE] AWS Training site \
@@ -17,7 +17,7 @@ https://www.antisyphontraining.com/on-demand-courses/breaching-the-cloud-w-beau-
 https://attackdefense.pentesteracademy.com/listing?labtype=aws-cloud-security-bootcamp&subtype=aws-cloud-security-bootcamp-recordings 
 
 # Resources
-[Resources] [FREE] HackTricks AWS Pentesting \
+[Resource] [FREE] HackTricks AWS Pentesting \
 Repository of AWS hacking resources and methodology \
 https://cloud.hacktricks.xyz/pentesting-cloud/aws-security 
 
@@ -90,3 +90,7 @@ https://github.com/RhinoSecurityLabs/pacu
 [Tool] [FREE] S3Scanner
 For discovering 'Leaky' Buckets \
 https://github.com/sa7mon/S3Scanner
+
+[Tool] [Free tier] + [Paid] grayhatwarfare Buckt Filter
+Search Public Buckets
+https://buckets.grayhatwarfare.com/buckets?type=aws
