@@ -30,14 +30,18 @@ https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/
 Vulnerable by design AWS Lab \
 https://github.com/RhinoSecurityLabs/cloudgoat 
 
-[Labs] TryHackMe - Attacking and Defending AWS \
+[Labs] [Paid] TryHackMe - Attacking and Defending AWS \
 Practical, hands-on experience with Amazon Web Services \
 https://resources.tryhackme.com/attacking-and-defending-aws 
 https://tryhackme.com/path/outline/attackinganddefendingaws 
 
-[Lab] Hack the Box - Black Sky - Hailstorm \
+[Lab][Paid] Hack the Box - Black Sky - Hailstorm \
 Enterprise only cloud penetration testing labs \
 https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky 
+
+[Lab] [Free tier] + [Paid] Pwnedlabs
+Real-world, byte sized cloud security labs for training
+https://pwnedlabs.io/
 
 # Research & Reading 
 [Research + Reading] [FREE] AWS Customer Security Incidents Github Repo \
@@ -45,15 +49,15 @@ A repository of headline AWS cloud breaches and their root causes, compiled by R
 https://github.com/ramimac/aws-customer-security-incidents 
 
 # Certifications 
-[Certification] AWS Certified Cloud Practitioner \
+[Certification] [Paid] AWS Certified Cloud Practitioner \
 Foundational, high-level understanding of AWS Cloud, services, and terminology. \
 https://aws.amazon.com/certification/certified-cloud-practitioner/ 
 
-[Certification] AWS Certified Security - Specialty \
+[Certification] [Paid] AWS Certified Security - Specialty \
 Validates your expertise in creating and implementing security solutions in the AWS Cloud \
 https://aws.amazon.com/certification/certified-security-specialty/ 
 
-[Certification] HackTricks Training - AWS Red Team Expert \
+[Certification] [Paid] HackTricks Training - AWS Red Team Expert \
 Hands on training lab and certification for AWS Red teaming \
 https://training.hacktricks.xyz/courses/arte 
 
@@ -82,3 +86,7 @@ https://github.com/BishopFox/cloudfox
 [Tool - Exploit Framework] [FREE] Pacu \
 Open-source AWS exploitation framework \
 https://github.com/RhinoSecurityLabs/pacu 
+
+[Tool] [Free] S3Scanner
+For discovering 'Leaky' Buckets \
+https://github.com/sa7mon/S3Scanner
