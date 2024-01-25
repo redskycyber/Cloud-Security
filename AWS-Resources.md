@@ -1,7 +1,7 @@
 For those of you interested in learning AWS Security and Penetration Testing, check out these resources:
 
 # Training 
-[Training] AWS Training site \
+[Training] [FREE] AWS Training site \
 Training program built by AWS \
 https://www.aws.training/ 
 
@@ -17,16 +17,16 @@ https://www.antisyphontraining.com/on-demand-courses/breaching-the-cloud-w-beau-
 https://attackdefense.pentesteracademy.com/listing?labtype=aws-cloud-security-bootcamp&subtype=aws-cloud-security-bootcamp-recordings 
 
 # Resources
-[Resources] HackTricks AWS Pentesting \
+[Resources] [FREE] HackTricks AWS Pentesting \
 Repository of AWS hacking resources and methodology \
 https://cloud.hacktricks.xyz/pentesting-cloud/aws-security 
 
-[Resource] Hacking The Cloud \
+[Resource] [FREE] Hacking The Cloud \
 An encyclopedia of attacks/tactics/techniques for cloud and AWS \
 https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/ 
 
 # Labs
-[Lab] Cloud Goat \
+[Lab] [FREE] Cloud Goat \
 Vulnerable by design AWS Lab \
 https://github.com/RhinoSecurityLabs/cloudgoat 
 
@@ -40,7 +40,7 @@ Enterprise only cloud penetration testing labs \
 https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky 
 
 # Research & Reading 
-[Research + Reading] AWS Customer Security Incidents Github Repo \
+[Research + Reading] [FREE] AWS Customer Security Incidents Github Repo \
 A repository of headline AWS cloud breaches and their root causes, compiled by Rami McCarthy \
 https://github.com/ramimac/aws-customer-security-incidents 
 
@@ -58,27 +58,27 @@ Hands on training lab and certification for AWS Red teaming \
 https://training.hacktricks.xyz/courses/arte 
 
 # Videos
-[Video Playlist] AWS Cloud 101 - Tyler Rambsey \
+[Video Playlist] [FREE] AWS Cloud 101 - Tyler Rambsey \
 Video walkthrough of TryHackMe - Attacking and Defending AWS \
 https://www.youtube.com/watch?v=JUO-m5ga-gc&list=PL0iJrrpaWpyXyL8SDc9H-g-aY9A8LiKRO 
 
-[Video Playlist] AWS Pentesting 50 Video Playlist \
+[Video Playlist] [FREE] AWS Pentesting 50 Video Playlist \
 Complied video list by Tamir Zuhair \
 https://www.youtube.com/playlist?list=PLbT8rDUmot22PkfO-zJNKOwiE1dSkmGDP 
 
-# Tools
-[Tool - Vuln Scan] ScoutSuite \
+# Tools 
+[Tool - Vuln Scan] [FREE] ScoutSuite \
 Multi-cloud security-auditing tool \
 https://github.com/nccgroup/ScoutSuite 
 
-[Tool - Vuln Scan] Prowler \
+[Tool - Vuln Scan] [FREE] Prowler \
 Perform Multi-Cloud best practice assessments \
 https://github.com/prowler-cloud/prowler 
 
-[Tool - Exploit Framework] Cloudfox \
+[Tool - Exploit Framework] [FREE] Cloudfox \
 Find exploitable attack paths in cloud infrastructure \
 https://github.com/BishopFox/cloudfox 
 
-[Tool - Exploit Framework] Pacu \
+[Tool - Exploit Framework] [FREE] Pacu \
 Open-source AWS exploitation framework \
 https://github.com/RhinoSecurityLabs/pacu 
