@@ -1,6 +1,6 @@
 For those of you interested in learning AWS Security and Penetration Testing, check out these resources:
 
-#Training 
+# Training 
 [Training] AWS Training site
 Search for “Security”
 https://www.aws.training/
@@ -16,7 +16,7 @@ https://www.antisyphontraining.com/on-demand-courses/breaching-the-cloud-w-beau-
 [Training + Lab] Pentester Academy - AWS Bootcamp and AWS Cloud Security Labs
 https://attackdefense.pentesteracademy.com/listing?labtype=aws-cloud-security-bootcamp&subtype=aws-cloud-security-bootcamp-recordings
 
-#Resources
+# Resources
 [Resources] HackTricks AWS Pentesting
 Repository of AWS hacking resources and methodology
 https://cloud.hacktricks.xyz/pentesting-cloud/aws-security
@@ -25,7 +25,7 @@ https://cloud.hacktricks.xyz/pentesting-cloud/aws-security
 An encyclopedia of attacks/tactics/techniques for cloud and AWS
 https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/
 
-#Labs
+# Labs
 [Lab] Cloud Goat
 Vulnerable by design AWS Lab
 https://github.com/RhinoSecurityLabs/cloudgoat
@@ -39,12 +39,12 @@ https://tryhackme.com/path/outline/attackinganddefendingaws
 Enterprise only cloud penetration testing labs
 https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky
 
-#Research & Reading
+# Research & Reading
 [Research + Reading] AWS Customer Security Incidents Github Repo
 A repository of headline AWS cloud breaches and their root causes, compiled by Rami McCarthy
 https://github.com/ramimac/aws-customer-security-incidents
 
-#Certifications
+# Certifications
 [Certification] AWS Certified Cloud Practitioner
 Foundational, high-level understanding of AWS Cloud, services, and terminology.
 https://aws.amazon.com/certification/certified-cloud-practitioner/
@@ -57,7 +57,7 @@ https://aws.amazon.com/certification/certified-security-specialty/
 Hands on training lab and certification for AWS Red teaming
 https://training.hacktricks.xyz/courses/arte
 
-#Videos
+# Videos
 [Video Playlist] AWS Cloud 101 - Tyler Rambsey
 Video walkthrough of TryHackMe - Attacking and Defending AWS
 https://www.youtube.com/watch?v=JUO-m5ga-gc&list=PL0iJrrpaWpyXyL8SDc9H-g-aY9A8LiKRO
@@ -66,7 +66,7 @@ AWS Pentesting 50 Video Playlist
 Complied video list by Tamir Zuhair
 https://www.youtube.com/playlist?list=PLbT8rDUmot22PkfO-zJNKOwiE1dSkmGDP
 
-#Tools
+# Tools
 [Tool - Vuln Scan] ScoutSuite
 Multi-cloud security-auditing tool
 https://github.com/nccgroup/ScoutSuite
