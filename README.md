@@ -20,3 +20,5 @@ If there are any tools, training, labs, certifications, or resources that you th
 Connect and reach out to me any time on my linkedin: https://www.linkedin.com/in/mike-dame/
 
 Cyber security is a community, and communities thrive through the sharing of resources.
+
+AWS Resources:
