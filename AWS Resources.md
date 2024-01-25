@@ -2,7 +2,7 @@ For those of you interested in learning AWS Security and Penetration Testing, ch
 
 # Training 
 [Training] AWS Training site \
-Search for “Security” \
+Training program built by AWS \
 https://www.aws.training/ 
 
 [Training] AWS Cloud Quest \
@@ -39,12 +39,12 @@ https://tryhackme.com/path/outline/attackinganddefendingaws
 Enterprise only cloud penetration testing labs \
 https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky 
 
-# Research & Reading \
+# Research & Reading 
 [Research + Reading] AWS Customer Security Incidents Github Repo \
 A repository of headline AWS cloud breaches and their root causes, compiled by Rami McCarthy \
 https://github.com/ramimac/aws-customer-security-incidents 
 
-# Certifications \
+# Certifications 
 [Certification] AWS Certified Cloud Practitioner \
 Foundational, high-level understanding of AWS Cloud, services, and terminology. \
 https://aws.amazon.com/certification/certified-cloud-practitioner/ 
