@@ -22,3 +22,4 @@ Connect and reach out to me any time on my linkedin: https://www.linkedin.com/in
 Cyber security is a community, and communities thrive through the sharing of resources.
 
 AWS Resources:
+https://github.com/redskycyber/CloudResources/blob/main/AWS%20Resources.md
