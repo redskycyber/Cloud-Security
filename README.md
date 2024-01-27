@@ -17,7 +17,7 @@ Hey! I'm Mike Dame, and I have 5+ years of experience in Offensive Security, wor
 
 My goal is to facilitate the sharing of cybersecurity resources, especially those in the realm of cloud security, cloud penetration testing, and cloud red teaming. This way, you can learn, grow, and develop your skills and confidence to become the very best professionals you can be.
 
-If there are any tools, training, labs, certifications, or resources that you think I should add, please feel free to share them!
+If there are any tools, training, labs, videos, certifications, or resources that you think I should add, please feel free to share them!
 
 Connect and reach out to me any time on my linkedin: https://www.linkedin.com/in/mike-dame/
 
