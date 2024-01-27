@@ -1,5 +1,12 @@
 <img width="431" alt="Screenshot 2024-01-26 at 11 56 32 PM" src="https://github.com/redskycyber/Cloud-Security/assets/157662722/f4e8bef4-ff4f-4567-b63f-f4bd5177b120">
 
+For those looking for a better understanding of successful hacks in Cloud environments, check out this amazing free repository of headline AWS breaches and their root causes, which has helped me become a stronger practitioner:
+
+https://github.com/ramimac/aws-customer-security-incidents
+Repo by Rami McCarthy
+
+Reading through the articles in this repository was one of the first steps I took on my offensive security journey to understand what to look for during Cloud Penetration Testing.
+
 Below is my summary of the 4 most common ways that Cloud environments are compromised:
 
 # 1. Exposed Keys/Secrets/Credentials:
@@ -15,10 +22,3 @@ When infrastructure within a cloud environment is compromised, threat actors oft
 
 # 4. Overly Permissive Accounts:
 Finally, once a credential set is compromised for cloud access, Identity and Access Management (IAM) is often misconfigured or provides excessive permissions, making further exploitation trivial. Gaining full control of a cloud environment becomes effortless when wildcard (*) permissions are implemented, the principle of least privilege is not enforced, and when policies are not granularly defined. Examples of IAM Privilege Escalation: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-iam-privesc
-
-For those looking for a better understanding of successful hacks in Cloud environments, check out this amazing free repository of headline AWS breaches and their root causes, which has helped me become a stronger practitioner:
-
-https://github.com/ramimac/aws-customer-security-incidents
-Repo by Rami McCarthy
-
-Reading through the articles in this repository was one of the first steps I took on my offensive security journey to understand what to look for during Cloud Penetration Testing.
