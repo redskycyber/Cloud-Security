@@ -57,40 +57,40 @@ I’ve got you covered:
 
 *Make sure you terminate instances when you're done to avoid incurred costs*
 
-[AWS] Cloud Goat 
+[AWS] Cloud Goat \ 
 https://github.com/RhinoSecurityLabs/cloudgoat 
 
-[AWS] INE - AWSGoat 
+[AWS] INE - AWSGoat \ 
 https://github.com/ine-labs/AWSGoat 
 
-[AWS] IAM Vulnerable 
+[AWS] IAM Vulnerable  \ 
 https://github.com/BishopFox/iam-vulnerable 
 
-[AWS] Cloudfoxable labs 
+[AWS] Cloudfoxable labs \ 
 https://github.com/BishopFox/cloudfoxable 
 
-[AZURE] INE - AzureGoat 
+[AZURE] INE - AzureGoat \ 
 https://github.com/ine-labs/AzureGoat 
 
-[AZURE] Purple Cloud 
+[AZURE] Purple Cloud \ 
 https://github.com/iknowjason/PurpleCloud 
 
-[AZURE] Mandiant Azure Workshop 
+[AZURE] Mandiant Azure Workshop \ 
 https://github.com/mandiant/Azure_Workshop 
 
-[AZURE] XMGoat 
+[AZURE] XMGoat \ 
 https://github.com/XMCyber/XMGoat 
 
-[AZURE] Azure-security-lab 
+[AZURE] Azure-security-lab \ 
 https://github.com/azurecitadel/azure-security-lab 
 
-[GCP] INE - GCPgoat 
+[GCP] INE - GCPgoat \ 
 https://github.com/ine-labs/GCPGoat 
 
-[GCP] GCP Goat 
+[GCP] GCP Goat \ 
 https://gcpgoat.joshuajebaraj.com/about 
 
-[GCP]  Thunder-ctf 
+[GCP]  Thunder-ctf \ 
 https://thunder-ctf.cloud/ 
 
 If you’ve made it to this step, you’re ahead of most. 
