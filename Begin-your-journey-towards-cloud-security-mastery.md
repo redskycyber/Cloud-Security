@@ -8,8 +8,6 @@ A successful cloud security professional and cloud guru once told me, you learn 
 
 So where to begin?
 
-<img style="text-align:center width="397" alt="Screenshot 2024-02-08 at 12 16 55 AM" src="https://github.com/redskycyber/Cloud-Security/assets/157662722/3fa024a7-c0d6-4ca1-9848-5b294a2ec1ad">
-
 ## Step 1) - Apply the above principle to the cloud admin console.
 
 <img width="394" alt="Screenshot 2024-02-08 at 12 20 15 AM" src="https://github.com/redskycyber/Cloud-Security/assets/157662722/56290923-a7ae-403c-b15a-d7f961a916db">
