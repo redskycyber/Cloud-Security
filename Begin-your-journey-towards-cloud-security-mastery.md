@@ -1,5 +1,8 @@
 # <img width="384" alt="Screenshot 2024-02-08 at 12 11 22 AM" src="https://github.com/redskycyber/Cloud-Security/assets/157662722/2ccf4854-7de2-4b82-bbb5-14258d8869c9">
 
+<img width="397" alt="Screenshot 2024-02-08 at 12 16 55 AM" src="https://github.com/redskycyber/Cloud-Security/assets/157662722/3fa024a7-c0d6-4ca1-9848-5b294a2ec1ad">
+
+
 How do you begin your journey towards mastering cloud security?
 
 A successful cloud security professional and cloud guru once told me, you learn 3 things:
