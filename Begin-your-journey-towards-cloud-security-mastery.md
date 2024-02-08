@@ -31,14 +31,14 @@ There are no excuses why you cannot take steps towards becoming a cloud security
 
 Pick a provider of your choice and get after it:
 
-For AWS, access the AWS Management Console
+For AWS, access the AWS Management Console \
 [FREE] Account signup - https://lnkd.in/eaaPCX6d
 
 
-For Azure, access the Microsoft Azure Portal
+For Azure, access the Microsoft Azure Portal \
 [FREE] Account signup - https://lnkd.in/eDf5FM3C
 
-For GCP, access the Google Cloud Console.
+For GCP, access the Google Cloud Console \
 [FREE] Account signup - https://lnkd.in/e6dUnh7a
 
 ## Step 3) - Once inside, play with and provision services. Pick a side project that requires cloud resources and try your hand at configuring it correctly. 
