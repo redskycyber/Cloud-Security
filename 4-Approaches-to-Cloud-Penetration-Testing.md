@@ -38,10 +38,10 @@ These credentials are leveraged to probe the Cloud environment from an external 
 
 **Pros:** \
 [+] Identifies and exploits vulnerabilities within the Cloud environment. \
-[+] Most common breach scenario of a user’s or service’s Cloud credentials. \
+[+] Most common breach scenario of a user’s or service’s Cloud credentials.
 
 **Potential Drawbacks:** \
-[-] May not result in compromise of a network connected asset in the cloud, leaving the network and VM portions of the environment only assessed from the admin console.
+[-] May not result in compromise of a network connected asset in the cloud, leaving the network and VM portions of the environment only assessed from the admin console. \
 [-] We are limited to what we can see within the cloud console, based on what roles are applied. 
 
 ## 4. Credentialed Internal Network and Console Assumed Breach Penetration Test  (Internal device compromised, user credentials provided)
