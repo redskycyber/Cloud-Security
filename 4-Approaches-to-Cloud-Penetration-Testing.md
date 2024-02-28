@@ -1,5 +1,5 @@
 # 4 Approaches to Cloud Penetration Testing
-There are 4 types of cloud penetration tests you can perform that will provide different results and impact. What are the pros and cons of each?
+There are 4 types of cloud penetration tests you can perform that will provide different results and impact. Understanding what they are can help you better scope your cloud penetration test to meet stakeholder requirements. What are the pros and cons of each?
 
 ## 1. Unauthenticated External Penetration Test
 
