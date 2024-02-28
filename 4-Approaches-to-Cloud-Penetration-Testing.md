@@ -16,7 +16,7 @@ This assessment mirrors an external network penetration test but is tailored to 
 [-] May not result in cloud user, network, or console compromise, leaving credentialed access to the environment un-assessed. 
 
 ## 2. Uncredentialed Internal Network Assumed Breach Penetration Test (device compromise, no additional access provided)
-*Worth defining, but not the recommended approach*
+*Worth defining, but not the recommended approach as there is far more to cloud infrasturcture than just the network portion.*
 
 **Starting Point Assumed Role:** Internal network device without credentials.
 
@@ -32,9 +32,9 @@ This approach can be performed, but it resembles a traditional penetration test.
 [-] The more realistic and thorough attack scenario of credentialed console compromise will be left unassessed if not discovered.
 
 ## 3. Credentialed Console Assumed Breach Penetration Test (user management and CLI programmatic access to the Cloud console)
-**Starting Point Assumed role:** Starting from the perspective of an Internal Employee, a Cloud Engineer Developer, or service account, this scenario mirrors a situation where these credentials were externally exposed or compromised.
+**Starting Point Assumed role:** Starting from the perspective of an Internal Employee or Cloud Engineer Developer creds, or a service account, this scenario mirrors a situation where these credentials were externally exposed or compromised.
 
-We leverage these credentials to probe the Cloud environment from an external attack location, seeking vulnerabilities, a foothold on a system, privilege escalation opportunities, and lateral movement pathways.  By identifying, linking, and exploiting these vulnerabilities, the objective is to illustrate the extent of the compromise's impact on the environment.
+We leverage these credentials to probe the Cloud environment from an external attack location, seeking vulnerabilities, a foothold on a system, privilege escalation opportunities, and lateral movement pathways.  By identifying, linking, and exploiting these vulnerabilities, the objective is to illustrate the extent of the compromise's impact on the environment. This assessment moves beyond the external perspective, but providing access to the admin console, therough both programmatic and console access, to assess cloud specific services and their integrations.
 
 **Pros:** \
 [+] Identifies and exploits vulnerabilities within the Cloud environment. \
