@@ -22,7 +22,7 @@ This assessment mirrors an external network penetration test but is tailored to 
 
 In this scenario, a virtual machine is provisioned within the Cloud environment, with VNet or VPC access to other servers, workstations, or databases in scope, where testers can remotely access. Similar to an internal penetration test, exposed ports and services are mapped across live devices, and vulnerabilities are identified and exploited to prove impact.
 
-This approach can be performed, but it resembles a traditional penetration test. It doesn’t include access to the management console, unless that access is discovered during the assessment - so the next approaches are definitely more thorough and recommended. If someone asks for this approach, respectfully guide them to the more impactful approach of #3 or #4.
+This approach can be performed, but it resembles a traditional penetration test. It doesn’t include access to the management console, unless that access is discovered during the assessment - so the next approaches are definitely more thorough and recommended. If someone asks for this approach, respectfully guide them to the more impactful approaches of #3 or #4.
 
 **Pros:** \
 [+] The internal cloud network is assessed for vulnerabilities. 
@@ -42,10 +42,12 @@ These credentials are leveraged to probe the Cloud environment from an external 
 
 **Potential Drawbacks:** \
 [-] May not result in compromise of a network connected asset in the cloud, leaving the network and VM portions of the environment only assessed from the admin console. \
-[-] We are limited to what we can see within the cloud console, based on what roles are applied. 
+[-] You may be limited based on what roles are provided in the assumed breach. This is only a drawback if the conversation is not had with a stakeholder, and adequate permissions are not provided. \
+
+A recommended approach is looking at the overall composition of users within the cloud environment, and choosing roles and permissions that are most prevelant, or most likely to become compromised.
 
 ## 4. Credentialed Internal Network and Console Assumed Breach Penetration Test  (Internal device compromised, user credentials provided)
-Starting Point Assumed role:  Internal Employee - Infrastructure or Application User, equipped with internal device access (VM, VDI, or EC2 Instance) and Cloud credentials, this scenario elevates the “traditional” penetration test to a more comprehensive level.
+Starting Point Assumed role:  Internal Employee - Infrastructure or Application User, equipped with internal device access (VM, VDI, or EC2 Instance) and Cloud credentials, this scenario elevates the “traditional” penetration test in approach #2 to a more comprehensive level.
 
 This is the most exhaustive among the Assumed Breach types, as it not only establishes a starting point within the cloud network but also provides user credentials. These credentials can serve as a pivot to access the Cloud console and explore other potential areas of compromise, including Cloud services.
 
