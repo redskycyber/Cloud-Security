@@ -25,10 +25,10 @@ In this scenario, a virtual machine is provisioned within the Cloud environment,
 This approach can be performed, but it resembles a traditional penetration test. It doesn’t include access to the management console, unless that access is discovered during the assessment - So the next approaches are definitely more thorough and recommended.
 
 **Pros:** \
-[+] The internal cloud network is assessed for vulnerabilities. \
+[+] The internal cloud network is assessed for vulnerabilities. 
 
 **Potential Drawbacks:** \
-[-] This assessment derives from a traditional Internal Network Penetration test methodology and focuses only on a portion of cloud infrastructure and that is the internal cloud network.
+[-] This assessment derives from a traditional Internal Network Penetration test methodology and focuses only on a portion of cloud infrastructure and that is the internal cloud network. \
 [-] The more realistic and thorough attack scenario of credentialed console compromise will be left unassessed if not discovered.
 
 ## 3. Credentialed Console Assumed Breach Penetration Test (user management and CLI programmatic access to the Cloud console)
