@@ -32,9 +32,9 @@ This approach can be performed, but it resembles a traditional penetration test.
 [-] The more realistic and thorough attack scenario of credentialed console compromise will be left unassessed if not discovered.
 
 ## 3. Credentialed Console Assumed Breach Penetration Test (user management and CLI programmatic access to the Cloud console)
-**Starting Point Assumed role:** Starting from the perspective of an Internal Employee or Cloud Engineer Developer creds, or a service account, this scenario mirrors a situation where these credentials were externally exposed or compromised.
+**Starting Point Assumed Role:** Starting from the perspective of an internal employee or cloud engineer with developer credentials, or from that of a service account, this scenario reflects a situation in which these credentials were externally exposed or compromised.
 
-We leverage these credentials to probe the Cloud environment from an external attack location, seeking vulnerabilities, a foothold on a system, privilege escalation opportunities, and lateral movement pathways.  By identifying, linking, and exploiting these vulnerabilities, the objective is to illustrate the extent of the compromise's impact on the environment. This assessment moves beyond the external perspective, but providing access to the admin console, therough both programmatic and console access, to assess cloud specific services and their integrations.
+These credentials are leveraged to probe the Cloud environment from an external attack location, seeking vulnerabilities, a foothold on a system, privilege escalation opportunities, and lateral movement pathways.  By identifying, linking, and exploiting these vulnerabilities, the objective is to illustrate the extent of the compromise's impact on the environment. This assessment moves beyond the external perspective, to assess cloud specific services and their integrations.
 
 **Pros:** \
 [+] Identifies and exploits vulnerabilities within the Cloud environment. \
@@ -42,6 +42,7 @@ We leverage these credentials to probe the Cloud environment from an external at
 
 **Potential Drawbacks:** \
 [-] May not result in compromise of a network connected asset in the cloud, leaving the network and VM portions of the environment only assessed from the admin console.
+[-] We are limited to what we can see within the cloud console, based on what roles are applied. 
 
 ## 4. Credentialed Internal Network and Console Assumed Breach Penetration Test  (Internal device compromised, user credentials provided)
 Starting Point Assumed role:  Internal Employee - Infrastructure or Application User, equipped with internal device access (VM, VDI, or EC2 Instance) and Cloud credentials, this scenario elevates the “traditional” penetration test to a more comprehensive level.
