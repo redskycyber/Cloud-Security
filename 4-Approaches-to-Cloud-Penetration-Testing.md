@@ -3,17 +3,17 @@ There are 4 types of cloud penetration tests you can perform that will provide d
 
 ## 1. Unauthenticated External Penetration Test
 
-Starting Point: External threat actor with unauthenticated Internet access
+**Starting Point:** External threat actor with unauthenticated Internet access
 
 This assessment mirrors an external network penetration test but is tailored to assets and services hosted on the Cloud. The engagement starts without any credentials or keys for the Cloud environment. The primary objective is to assess the external presence, uncover vulnerabilities, and actively exploit them to demonstrate the potential consequences of an unauthenticated threat actor. A top priority is gaining access to the Cloud environment, either through the discovery of Cloud credentials or by compromising an external host or service.
 
-Pros: \
+**Pros:** \
 [+] Most common cloud targeting scenario, as most threat actors will start from this same perspective. \
 [+] Least prerequisites required. \
-[+] Lowest cost \
+[+] Lowest cost 
 
-Potential Drawbacks:
-[-] May not result in cloud user, network, or console compromise, leaving credentialed access to the environment un-assessed.
+Potential Drawbacks: \
+[-] May not result in cloud user, network, or console compromise, leaving credentialed access to the environment un-assessed. 
 
 ## 2. Uncredentialed Internal Network Assumed Breach Penetration Test (device compromise, no additional access provided)
 *Worth defining, but not the recommended approach*
