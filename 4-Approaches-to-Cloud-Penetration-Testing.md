@@ -10,38 +10,38 @@ This assessment mirrors an external network penetration test but is tailored to 
 **Pros:** \
 [+] Most common cloud targeting scenario, as most threat actors will start from this same perspective. \
 [+] Least prerequisites required. \
-[+] Lowest cost 
+[+] Lowest cost. 
 
-Potential Drawbacks: \
+**Potential Drawbacks:** \
 [-] May not result in cloud user, network, or console compromise, leaving credentialed access to the environment un-assessed. 
 
 ## 2. Uncredentialed Internal Network Assumed Breach Penetration Test (device compromise, no additional access provided)
 *Worth defining, but not the recommended approach*
 
-Starting Point Assumed Role: Internal network device without credentials.
+**Starting Point Assumed Role:** Internal network device without credentials.
 
 In this scenario, a virtual machine is provisioned within the Cloud environment, with VNet or VPC access to other servers, workstations, or databases in scope, where testers can remotely access. Similar to an internal penetration test, exposed ports and services are mapped across live devices, and vulnerabilities are identified and exploited to prove impact.
 
 This approach can be performed, but it resembles a traditional penetration test. It doesn’t include access to the management console, unless that access is discovered during the assessment - So the next approaches are definitely more thorough and recommended.
 
-Pros:
-The internal cloud network is assessed for vulnerabilities.
+**Pros:** \
+[+] The internal cloud network is assessed for vulnerabilities. \
 
-Potential Drawbacks:
-This assessment derives from a traditional Internal Network Penetration test methodology and focuses only on a portion of cloud infrastructure and that is the internal cloud network.
-The more realistic and thorough attack scenario of credentialed console compromise will be left unassessed if not discovered.
+**Potential Drawbacks:** \
+[-] This assessment derives from a traditional Internal Network Penetration test methodology and focuses only on a portion of cloud infrastructure and that is the internal cloud network.
+[-] The more realistic and thorough attack scenario of credentialed console compromise will be left unassessed if not discovered.
 
 ## 3. Credentialed Console Assumed Breach Penetration Test (user management and CLI programmatic access to the Cloud console)
-Starting Point Assumed role: Starting from the perspective of an Internal Employee, a Cloud Engineer Developer, or service account, this scenario mirrors a situation where these credentials were externally exposed or compromised.
+**Starting Point Assumed role:** Starting from the perspective of an Internal Employee, a Cloud Engineer Developer, or service account, this scenario mirrors a situation where these credentials were externally exposed or compromised.
 
 We leverage these credentials to probe the Cloud environment from an external attack location, seeking vulnerabilities, a foothold on a system, privilege escalation opportunities, and lateral movement pathways.  By identifying, linking, and exploiting these vulnerabilities, the objective is to illustrate the extent of the compromise's impact on the environment.
 
-Pros
-Identifies and exploits vulnerabilities within the Cloud environment
-Most common breach scenario of a user’s or service’s Cloud credentials
+**Pros:** \
+[+] Identifies and exploits vulnerabilities within the Cloud environment. \
+[+] Most common breach scenario of a user’s or service’s Cloud credentials. \
 
-Potential Drawbacks
-May not result in compromise of a network connected asset in the cloud, leaving the network and VM portions of the environment only assessed from the admin console.
+**Potential Drawbacks:** \
+[-] May not result in compromise of a network connected asset in the cloud, leaving the network and VM portions of the environment only assessed from the admin console.
 
 ## 4. Credentialed Internal Network and Console Assumed Breach Penetration Test  (Internal device compromised, user credentials provided)
 Starting Point Assumed role:  Internal Employee - Infrastructure or Application User, equipped with internal device access (VM, VDI, or EC2 Instance) and Cloud credentials, this scenario elevates the “traditional” penetration test to a more comprehensive level.
@@ -52,11 +52,11 @@ In this scenario, a standard virtual machine is provisioned within the Cloud env
 
 In real-world compromise scenarios, this particular situation is highly prevalent when a server, web application, or external asset situated on an organization's perimeter falls victim to a breach. This scenario operates on the assumption that such a compromise has occurred and aims to illustrate the consequences of exploiting vulnerabilities from this compromised entry point where credentials are obtained.
 
-Pros
-Recommended Approach for most realism and impact
-Covers network and console service exploitation
-Most thorough coverage
-Discovers internal vulnerabilities and exploitation paths to help proactively mitigate
+**Pros:** \
+[+] Recommended Approach for most realism and impact. \
+[+] Covers network and console service exploitation. \
+[+] Most thorough coverage. \
+[+] Discovers internal vulnerabilities and exploitation paths to help proactively mitigate. \
 
-Potential Drawbacks
-This is the most resource intensive cloud assessment that requires the most prerequisites and the most time to perform.
+**Potential Drawbacks:** \
+[-] This is the most resource intensive cloud assessment that requires the most prerequisites and the most time to perform. \
