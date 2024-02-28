@@ -16,7 +16,7 @@ This assessment mirrors an external network penetration test but is tailored to 
 [-] May not result in cloud user, network, or console compromise, leaving credentialed access to the environment un-assessed. 
 
 ## 2. Uncredentialed Internal Network Assumed Breach Penetration Test (device compromise, no additional access provided)
-*Worth defining, but not the recommended approach as there is far more to cloud infrasturcture than just the network portion.*
+*Worth defining, but not the recommended approach, as there is far more to cloud infrasturcture than just the network portion.*
 
 **Starting Point Assumed Role:** Internal network device without credentials.
 
