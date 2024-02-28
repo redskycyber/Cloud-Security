@@ -22,7 +22,7 @@ This assessment mirrors an external network penetration test but is tailored to 
 
 In this scenario, a virtual machine is provisioned within the Cloud environment, with VNet or VPC access to other servers, workstations, or databases in scope, where testers can remotely access. Similar to an internal penetration test, exposed ports and services are mapped across live devices, and vulnerabilities are identified and exploited to prove impact.
 
-This approach can be performed, but it resembles a traditional penetration test. It doesn’t include access to the management console, unless that access is discovered during the assessment - So the next approaches are definitely more thorough and recommended.
+This approach can be performed, but it resembles a traditional penetration test. It doesn’t include access to the management console, unless that access is discovered during the assessment - so the next approaches are definitely more thorough and recommended. If someone asks for this approach, respectfully guide them to the more impactful approach of #3 or #4.
 
 **Pros:** \
 [+] The internal cloud network is assessed for vulnerabilities. 
