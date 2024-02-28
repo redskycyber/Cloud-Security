@@ -42,7 +42,7 @@ These credentials are leveraged to probe the Cloud environment from an external 
 
 **Potential Drawbacks:** \
 [-] May not result in compromise of a network connected asset in the cloud, leaving the network and VM portions of the environment only assessed from the admin console. \
-[-] You may be limited based on what roles are provided in the assumed breach. This is only a drawback if the conversation is not had with a stakeholder, and adequate permissions are not provided. \
+[-] You may be limited based on what roles are provided in the assumed breach. This is only a drawback if the conversation is not had with a stakeholder, and adequate permissions are not provided. 
 
 A recommended approach is looking at the overall composition of users within the cloud environment, and choosing roles and permissions that are most prevalent, or most likely to become compromised.
 
