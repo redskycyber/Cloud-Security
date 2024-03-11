@@ -10,9 +10,6 @@ https://comparecloud.in/
 [Slides] [Feature Mapping] \
 https://www.slideshare.net/ilyas_it83/microsoft-azure-vs-amazon-web-services-aws-services-feature-mapping
 
-[PDF] @Simon Holdorf’s Cloud Comparison \
-https://www.reddit.com/r/dataengineering/comments/13oaw8m/cloud_comparison_by_simonholdorf/
-
 [Resource] [Matrix] Google Cloud - Compare AWS and Azure services to Google Cloud \
 https://cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison
 
@@ -25,6 +22,9 @@ https://www.oracle.com/cloud/service-comparison/
 [Interactive Chart]  Lucid Chart - Cloud Terminology Glossary: AWS, Azure, and GCP \
 An interactive visual chart representation of high level functionality and it’s correlation \
 https://lucid.app/lucidchart/13fde51a-271f-456a-b2b3-ef6869f9ee6a/view?page=GiFLkXTb1E1J#
+
+[PDF] @Simon Holdorf’s Cloud Comparison \
+https://www.reddit.com/r/dataengineering/comments/13oaw8m/cloud_comparison_by_simonholdorf/
 
 [12 Video Playlist] Pluralsight (acloudguru) - AWS vs Azure vs GCP: The big 3 cloud providers compared \
 Covers Storage, AI/ML, Networking, Databases, Compute, Security, Dev, Blockchain, Serverless, Certifications, Containers \
