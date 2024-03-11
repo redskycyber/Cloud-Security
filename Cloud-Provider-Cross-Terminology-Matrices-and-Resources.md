@@ -23,9 +23,6 @@ https://www.oracle.com/cloud/service-comparison/
 An interactive visual chart representation of high level functionality and it’s correlation \
 https://lucid.app/lucidchart/13fde51a-271f-456a-b2b3-ef6869f9ee6a/view?page=GiFLkXTb1E1J#
 
-[PDF] @Simon Holdorf’s Cloud Comparison \
-https://www.reddit.com/r/dataengineering/comments/13oaw8m/cloud_comparison_by_simonholdorf/
-
 [12 Video Playlist] Pluralsight (acloudguru) - AWS vs Azure vs GCP: The big 3 cloud providers compared \
 Covers Storage, AI/ML, Networking, Databases, Compute, Security, Dev, Blockchain, Serverless, Certifications, Containers \
 https://youtube.com/playlist?list=PLI1_CQcV71RnBebKm_tH1uKYI3WxkM2TT&feature=shared
@@ -44,3 +41,6 @@ https://tutorialsdojo.com/aws-vs-azure-services-comparison/
 
 [Resource] Varonis - AWS vs Azure vs Google: Cloud Services Comparison \
 https://www.varonis.com/blog/aws-vs-azure-vs-google
+
+[PDF] @Simon Holdorf’s Cloud Comparison \
+https://www.reddit.com/r/dataengineering/comments/13oaw8m/cloud_comparison_by_simonholdorf/
