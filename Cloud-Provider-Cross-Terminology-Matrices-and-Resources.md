@@ -1,3 +1,6 @@
+
+<img width="464" alt="Screenshot 2024-03-11 at 12 58 25 AM" src="https://github.com/redskycyber/Cloud-Security/assets/157662722/1c14f0bb-a24c-4cc1-bed2-da28c575b4ba">
+
 # Cloud Provider Cross Terminology Matrices and Resources
 
 Mastering one cloud platform but hesitant to dive into another? Don’t worry, the fundamentals of cloud technology span across providers. Once you grasp the terminology, navigating the features of different platforms becomes easier. 
