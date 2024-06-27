@@ -15,7 +15,7 @@ Here is what I use to better understand an AWS environment I’ll be penetration
 
 ## Accounts
 
-1. **What is the AWS Account ID in scope (12 digits), and provide any AWS Account Aliases (if applicable)?**
+1. **What is/are the AWS Account ID(s) in scope (12 digits), and provide any AWS Account Aliases (if applicable)?**
 2. **Are AWS Organizations in use, and if so, provide the Management Account ID and all other Account IDs in scope.**
 3. **For each AWS Account in scope, provide a brief description and any useful information about the account.**
 
@@ -82,4 +82,4 @@ Here is what I use to better understand an AWS environment I’ll be penetration
 4. **Is there any AWS monitoring or alerting teams/personnel that I should be aware of, or who should be notified before testing?**
 5. **Are there any WAF (Web Application Firewall) or Shield configurations in place for DDoS protection?**
 6. **What logging and monitoring solutions are implemented (e.g., CloudWatch, CloudTrail, GuardDuty)?**
-7. **What security tools and services are implemented in your AWS environment to enhance security monitoring, incident response, and compliance, and how are they configured and used (e.g., Security Hub, AWS Config, Inspector, etc.)?**
+7. **What security tools and services are implemented in your AWS environment to enhance security (e.g., Security Hub, AWS Config, Inspector, etc.)?**
