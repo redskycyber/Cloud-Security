@@ -1,5 +1,7 @@
 # AWS Pentest Scoping Questions
 
+<img width="428" alt="Screenshot 2024-06-27 at 12 00 19 AM" src="https://github.com/redskycyber/Cloud-Security/assets/157662722/5c6c3bf5-a0dd-4955-8a27-ac3ea3200816">
+
 **What AWS-specific scoping questions should you ask as a practitioner, or prepare for as a business/product owner when undertaking an AWS penetration test?**
 
 Here is what I use to better understand an AWS environment I’ll be penetration testing:
