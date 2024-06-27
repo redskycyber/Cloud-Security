@@ -35,7 +35,9 @@ Please provide the latest architecture diagrams of your environment.
 In instances where no diagrams are provided, a built in workload discovery tool, or a third party a tool like cloudmapper can be used:
 
 https://aws.amazon.com/solutions/implementations/workload-discovery-on-aws/
+
 https://github.com/duo-labs/cloudmapper
+
 https://aws.amazon.com/architecture/icons/
 
 ## Quantifying Size
