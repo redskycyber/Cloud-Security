@@ -6,10 +6,10 @@ Here is what I use to better understand an AWS environment I’ll be penetration
 
 ## General
 
-1. **What is the primary goal of penetration testing?**
+1. **What is the primary goal of performing this penetration testing?**
 2. **What are the main areas of focus for this penetration test?**
 3. **What is the general business purpose of the infrastructure, environment, or application?**
-4. **Has penetration testing been performed previously?**
+4. **Has penetration testing been performed previously? If so, what additional details can you provide?**
 
 ## Accounts
 
@@ -23,7 +23,7 @@ Here is what I use to better understand an AWS environment I’ll be penetration
 2. **Are there any specific AWS services you are particularly concerned about?**
 3. **For each service, describe its purpose, use, and connection within the environment.**
    - **Example:** DynamoDB is used for application user PII and data storage. Cognito is used for front-end user authentication. Lambda is used to handle user API requests and processing.
-4. **Can you provide a high-level overview of your AWS architecture, including mention of any applicable VPCs, subnets, and key services used?**
+4. **Can you provide a high-level overview of your AWS architecture, including mention of any applicable services, VPCs, subnets, and key services used?**
 5. **Please provide the latest architecture diagrams of your environment.**
    - In instances where no diagrams are provided, a built-in workload discovery tool, or a third-party tool like CloudMapper can be used:
      - [Workload Discovery on AWS](https://aws.amazon.com/solutions/implementations/workload-discovery-on-aws/)
@@ -33,7 +33,7 @@ Here is what I use to better understand an AWS environment I’ll be penetration
 ## Quantifying Size
 
 1. **What is your approximate total monthly spend on AWS?**
-2. **What are the approximate numbers of accounts, EC2 instances, databases, Lambda functions, user accounts, etc.?**
+2. **What are the approximate numbers of accounts, EC2 instances, databases, Lambda functions, user accounts, etc.? (Mention any services highlighted perviously)**
 
 ## Sensitive Data
 
