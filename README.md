@@ -13,7 +13,7 @@ and
 
 In doing so, I aim to help you achieve a more fulfilling and abundant cyber security career.
 
-Hey! I'm Mike Dame, and I have 5+ years of experience in Offensive Security, working for Fortune 50 enterprises and more recently, consulting across multiple industries. I hold the OSCP, CRTO, PNPT, AWS Certified Cloud Practitioner, AWS Certified Security Specialty certifications to name a few.
+Hey! I'm Mike Dame, and I have 6+ years of experience in Offensive Security, working for Fortune 50 enterprises and more recently, consulting across multiple industries. I hold the ARTE, OSCP, CRTO, PNPT, AWS Certified Cloud Practitioner, AWS Certified Security Specialty certifications to name a few.
 
 My goal is to facilitate the sharing of cybersecurity resources, especially those in the realm of cloud security, cloud penetration testing, and cloud red teaming. This way, you can learn, grow, and develop your skills and confidence to become the very best professionals you can be.
 
